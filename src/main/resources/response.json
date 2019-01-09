@@ -1,0 +1,51 @@
+{
+  "value": [{
+    "name": "com.test.vShieldManager",
+    "version": "9.9.9",
+    "instances": [{
+      "address": "-158-36.eng.test.com",
+      "id": "9c73db05-7028-4c35-85c0-bc3c824c0a74",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }, {
+    "name": "com.test.sso",
+    "version": "5.9.9",
+    "instances": [{
+      "address": "sample-158-36.eng.test.com",
+      "id": "206190f6-3aa9-4296-8ff5-32d3324af12e",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }, {
+    "name": "com.test.vcDr",
+    "version": "6.7.0",
+    "instances": [{
+      "address": "sample-158-36.eng.test.com",
+      "id": "a5fb6360-cf52-4d8b-a936-f49165b40a6b",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }, {
+    "name": "com.test.vcHms",
+    "version": "6.5.0",
+    "instances": [{
+      "address": "sample-158-36.eng.test.com",
+      "id": "5b0e1705-7a6f-43b9-bb27-41b92eff43ae",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }, {
+    "name": "com.test.vCloud Director-1",
+    "version": "6.6.0",
+    "instances": [{
+      "address": "sample-158-36.eng.test.com",
+      "id": "4c72545e-7f0d-4e63-93db-47e20f087644",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }, {
+    "name": "com.test.vcops",
+    "version": "6.5.0",
+    "instances": [{
+      "address": "sample-158-36.eng.test.com",
+      "id": "7c3422bc-4ec5-4ffe-af61-a1320ee6b73e",
+      "parent_instances": ["parent-116afcb221d4"]
+    }]
+  }]
+}
